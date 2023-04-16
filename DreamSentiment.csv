@@ -1,0 +1,488 @@
+SENTENCE_ID,POLARITY,SUBJECTIVEITY,SENTENCE,STRONG OPINION
+0,0.48888888888888893,0.6077777777777778,"I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.",0
+1,0.6000000000000001,0.725,This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice.,0
+2,-0.05,0.4,It came as a joyous daybreak to end the long night of their captivity.,0
+3,-0.1,0.4,"But one hundred years later, the Negro still is not free.",0
+4,-0.25,0.5,"One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.",0
+5,-0.033333333333333326,0.5666666666666667,"One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity.",0
+6,0.19999999999999998,0.3333333333333333,"One hundred years later, the Negro is still languishing in the corners of American society and finds himself an exile in his own land.",0
+7,0.0,0.0,So we have come here today to dramatize a shameful condition.,0
+8,0.0,0.0,In a sense we have come to our nation’s capital to cash a check.,0
+9,0.5,0.5,"When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir.",0
+10,0.17777777777777778,0.2111111111111111,"This note was a promise that all men, yes, black men as well as white men, would be guaranteed the unalienable rights of life, liberty, and the pursuit of happiness.",0
+11,0.0,0.5,It is obvious today that America has defaulted on this promissory note insofar as her citizens of color are concerned.,0
+12,-0.19999999999999996,0.4222222222222222,"Instead of honoring this sacred obligation, America has given the Negro people a bad check, a check which has come back marked “insufficient funds.” But we refuse to believe that the bank of justice is bankrupt.",0
+13,0.8,0.75,We refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation.,1
+14,0.0,0.0,So we have come to cash this check — a check that will give us upon demand the riches of freedom and the security of justice.,0
+15,0.0,0.0,We have also come to this hallowed spot to remind America of the fierce urgency of now.,0
+16,0.0,0.0,This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism.,0
+17,0.2,0.30000000000000004,Now is the time to make real the promises of democracy.,0
+18,-0.15,0.4,Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice.,0
+19,0.16666666666666666,0.3,Now is the time to lift our nation from the quick sands of racial injustice to the solid rock of brotherhood.,0
+20,0.0,0.0,Now is the time to make justice a reality for all of God’s children.It would be fatal for the nation to overlook the urgency of the moment.,0
+21,0.0,0.0,This sweltering summer of the Negro’s legitimate discontent will not pass until there is an invigorating autumn of freedom and equality.,0
+22,0.0,0.0,"Nineteen sixty-three is not an end, but a beginning.",0
+23,-0.275,0.425,Those who hope that the Negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual.,0
+24,0.0,0.0,There will be neither rest nor tranquility in America until the Negro is granted his citizenship rights.,0
+25,0.7000000000000001,0.7999999999999999,The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges.,1
+26,0.6,0.6,But there is something that I must say to my people who stand on the warm threshold which leads into the palace of justice.,0
+27,-0.5,1.0,In the process of gaining our rightful place we must not be guilty of wrongful deeds.,0
+28,0.0,0.0,Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred.,0
+29,0.16,0.5399999999999999,We must forever conduct our struggle on the high plane of dignity and discipline.,0
+30,0.25,0.5714285714285714,We must not allow our creative protest to degenerate into physical violence.,0
+31,0.0,0.14285714285714285,Again and again we must rise to the majestic heights of meeting physical force with soul force.,0
+32,0.32727272727272727,0.39090909090909093,"The marvelous new militancy which has engulfed the Negro community must not lead us to a distrust of all white people, for many of our white brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up with our destiny.",0
+33,0.0,0.0,They have come to realize that their freedom is inextricably bound to our freedom.,0
+34,0.0,0.0,We cannot walk alone.,0
+35,0.0,0.0,"As we walk, we must make the pledge that we shall always march ahead.",0
+36,0.0,0.0,We cannot turn back.,0
+37,0.21875,0.6124999999999999,"There are those who are asking the devotees of civil rights, “When will you be satisfied?” We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality.",0
+38,0.08333333333333333,0.6333333333333333,"We can never be satisfied, as long as our bodies, heavy with the fatigue of travel, cannot gain lodging in the motels of the highways and the hotels of the cities.",0
+39,0.09,0.505,We cannot be satisfied as long as the Negro’s basic mobility is from a smaller ghetto to a larger one.,0
+40,0.15,0.7999999999999999,We can never be satisfied as long as our children are stripped of their selfhood and robbed of their dignity by signs stating “For Whites Only”.,0
+41,0.19545454545454546,0.6181818181818182,We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote.,0
+42,0.12361111111111112,0.7972222222222222,"No, no, we are not satisfied, and we will not be satisfied until justice rolls down like waters and righteousness like a mighty stream.",0
+43,0.8,0.75,I am not unmindful that some of you have come here out of great trials and tribulations.,1
+44,-9.25185853854297e-18,0.3,Some of you have come fresh from narrow jail cells.,0
+45,0.0,0.0,Some of you have come from areas where your quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality.,0
+46,0.5,1.0,You have been the veterans of creative suffering.,0
+47,0.0,0.0,Continue to work with the faith that unearned suffering is redemptive.,0
+48,0.0,0.0,"Go back to Mississippi, go back to Alabama, go back to South Carolina, go back to Georgia, go back to Louisiana, go back to the slums and ghettos of our northern cities, knowing that somehow this situation can and will be changed.",0
+49,0.0,0.0,Let us not wallow in the valley of despair.,0
+50,0.0,0.0,"I say to you today, my friends, so even though we face the difficulties of today and tomorrow, I still have a dream.",0
+51,0.0,0.2,It is a dream deeply rooted in the American dream.,0
+52,0.1038510101010101,0.2892361111111111,"I have a dream that one day this nation will rise up and live out the true meaning of its creed: “We hold these truths to be self-evident: that all men are created equal.”
+I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.",0
+53,0.0,0.0,"I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.",0
+54,-0.025568181818181823,0.5,I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.,0
+55,-0.10781746031746034,0.43162698412698414,"I have a dream today.I have a dream that one day, down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; one day right there in Alabama, little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers.",0
+56,-0.022857142857142854,0.3114285714285715,"I have a dream today.I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.",0
+57,0.0,0.0,This is our hope.,0
+58,0.0,0.0,This is the faith that I go back to the South with.,0
+59,0.5,0.625,With this faith we will be able to hew out of the mountain of despair a stone of hope.,0
+60,0.675,0.8125,With this faith we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood.,0
+61,0.26666666666666666,0.47500000000000003,"With this faith we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together, knowing that we will be free one day.",0
+62,0.3287878787878788,0.5765151515151515,"This will be the day when all of God’s children will be able to sing with a new meaning, “My country, ‘tis of thee, sweet land of liberty, of thee I sing.",0
+63,0.575,0.7,"Land where my fathers died, land of the pilgrim’s pride, from every mountainside, let freedom ring.”
+And if America is to be a great nation this must become true.",0
+64,0.13636363636363635,0.45454545454545453,So let freedom ring from the prodigious hilltops of New Hampshire.,0
+65,0.2681818181818182,0.6772727272727272,Let freedom ring from the mighty mountains of New York.,0
+66,0.0,0.0,Let freedom ring from the heightening Alleghenies of Pennsylvania!,0
+67,0.0,1.0,Let freedom ring from the snowcapped Rockies of Colorado!Let freedom ring from the curvaceous slopes of California!But not only that; let freedom ring from Stone Mountain of Georgia!,0
+68,0.0,0.0,Let freedom ring from Lookout Mountain of Tennessee!Let freedom ring from every hill and molehill of Mississippi.,0
+69,0.16666666666666669,0.36041666666666666,"From every mountainside, let freedom ring.And when this happens, when we allow freedom to ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God’s children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual, “Free at last!",0
+70,0.2,0.43333333333333335,free at last!,0
+71,0.05,0.24166666666666667,"thank God Almighty, we are free at last!”
+During the few moments that we have left, we want to have just an off-the-cuff chat between you and me, us.",0
+72,0.18783068783068782,0.5526455026455026,We want to talk right down to earth in a language that everybody here can easily understand.,0
+73,-0.43333333333333335,0.8666666666666667,"We all agree tonight, all of the speakers have agreed, that America has a very serious problem.",0
+74,-0.2888888888888889,0.9111111111111111,"Not only does America have a very serious problem, but our people have a very serious problem.",0
+75,0.0,0.0,America’s problem is us.,0
+76,0.0,0.0,We’re her problem.,0
+77,0.0,1.0,The only reason she has a problem is she doesn’t want us here.,0
+78,-0.1,0.32,"Every time you look at yourself, be you black, brown, red, or yellow, a so-called Negro, you represent a person who poses such a serious problem for America because you’re not wanted.",0
+79,0.07500000000000007,0.925,"Once you face this as a fact, then you can start plotting a course that will make you appear intelligent, instead of unintelligent.",0
+80,0.0,0.0,What you and I need to do is learn to forget our differences.,0
+81,0.0,0.0,"When we come together, we don’t come together as Baptists or Methodists.",0
+82,0.0,0.0,"You don’t catch hell because you’re a Baptist, and you don’t catch hell because you’re a Methodist.",0
+83,0.0,0.0,You don’t catch hell because you’re a Methodist or Baptist.,0
+84,0.0,0.0,You don’t catch hell because you’re a Democrat or a Republican.,0
+85,0.0,0.0,You don’t catch hell because you’re a Mason or an Elk.,0
+86,0.16666666666666666,0.2962962962962963,"And you sure don’t catch hell because you’re an American, because if you was an American, you wouldn’t catch no hell.",0
+87,-0.16666666666666666,0.43333333333333335,You catch hell because you’re a black man.,0
+88,0.0,0.125,"You catch hell, all of us catch hell, for the same reason.",0
+89,-0.16666666666666666,0.43333333333333335,"So we are all black people, so-called Negroes, second-class citizens, ex-slaves.",0
+90,0.0,0.0,You are nothing but an ex-slave.,0
+91,0.0,0.0,You don’t like to be told that.,0
+92,0.0,0.0,But what else are you?,0
+93,0.0,0.0,You are ex-slaves.,0
+94,0.0,0.0,You didn’t come here on the Mayflower.,0
+95,-0.36666666666666664,0.5583333333333333,"You came here on a slave ship, in chains, like a horse or a cow or a chicken, and you were brought here by the people who came here on the Mayflower.",0
+96,0.0,0.0,You were brought here by the so-called Pilgrims or Founding Fathers.,0
+97,0.0,0.0,They were the ones who brought you here.,0
+98,-0.3,0.5,We have a common enemy.,0
+99,-0.3,0.5,We have this in common.,0
+100,-0.3,0.5,"We have a common oppressor, a common exploiter, and a common discriminator.",0
+101,-0.3,0.5,"But once we all realize that we have this common enemy, then we unite on the basis of what we have in common.",0
+102,-0.15,0.25,"What we have foremost in common is that enemy, the white man.",0
+103,0.0,0.0,He’s an enemy to all of us.,0
+104,0.0,0.0,I know some of you all think that some of them aren’t enemies.,0
+105,0.0,0.0,Time will tell.,0
+106,0.02777777777777778,0.25555555555555554,"In Bandung, back in, I think, 1954, was the first unity meeting in centuries of black people.",0
+107,0.0,0.1125,"Once you study what happened at the Bandung conference, and the results of the Bandung conference, it actually serves as a model for the same procedure you and I can use to get our problems solved.",0
+108,0.0,0.0,"At Bandung, all the nations came together.",0
+109,-0.15,0.4,There were dark nations from Africa and Asia.,0
+110,0.0,0.0,Some of them were Buddhists.,0
+111,0.0,0.0,Some of them were Muslim.,0
+112,0.0,0.0,Some of them were Christians.,0
+113,0.0,0.0,Some of them were Confucianists.,0
+114,0.0,0.0,Some were atheists.,0
+115,0.0,0.25,"Despite their religious differences, they came together.",0
+116,0.0,0.0,Some were communists; some were socialists; some were capitalists.,0
+117,0.1,0.15000000000000002,"Despite their economic and political differences, they came together.",0
+118,-0.05555555555555555,0.14444444444444446,"All of them were black, brown, red, or yellow.",0
+119,0.0,0.0,The number-one thing that was not allowed to attend the Bandung conference was the white man.,0
+120,0.0,0.0,He couldn’t come.,0
+121,0.0,0.0,"Once they excluded the white man, they found that they could get together.",0
+122,0.2857142857142857,0.5357142857142857,"Once they kept him out, everybody else fell right in and fell in line.",0
+123,0.0,0.0,This is the thing that you and I have to understand.,0
+124,-0.1,0.25,"And these people who came together didn’t have nuclear weapons, they didn’t have jet planes, they didn’t have all of the heavy armaments that the white man has, but they had unity.",0
+125,-0.014062499999999999,0.25,"They were able to submerge their little petty differences and agree on one thing, that though one African came from Kenya and was being colonized by the Englishman, and another African came from the Congo and was being colonized by the Belgian, and another African came from Guinea and was being colonized by the French, and another came from Angola and was being colonized by the Portuguese, when they came to the Bandung conference, they looked at the Portuguese and at the Frenchman and at the Englishman and at the other, Dutchman, and learned or realized that the one thing that all of them had in common, they were all from Europe.",0
+126,0.0,0.0,"They were all Europeans, blonde, blue-eyed, and white-skinned.They began to recognize who their enemy was.",0
+127,0.0,0.125,The same man that was colonizing our people in Kenya was colonizing our people in the Congo.,0
+128,0.0,0.0625,The same one in the Congo was colonizing our people in South Africa and in Southern Rhodesia and in Burma and in India and in Afghanistan and in Pakistan.,0
+129,-0.075,0.2,"They realized all over the world where the dark man was being oppressed, he was being oppressed by the white man; where the dark man was being exploited, he was being exploited by the white man.",0
+130,-0.3,0.5,"So they got together under this basis, that they had a common enemy.",0
+131,-0.3,0.5,"When you and I here in Detroit and in Michigan and in America who have been awakened today look around us, we too realize here in America we all have a common enemy.",0
+132,-0.012272727272727274,0.1640909090909091,"Whether he’s in Georgia or Michigan, whether he’s in California or New York, he’s the same man, blue eyes and blonde hair and pale skin, same man.",0
+133,0.0,0.0,So what we have to do is what they did.,0
+134,0.0,0.0,They agreed to stop quarreling among themselves.,0
+135,-0.1875,0.5,"Any little spat that they had, they’d settle it among themselves, go into a huddle, don’t let the enemy know that you got a disagreement.",0
+136,0.0,0.09583333333333333,"Instead of us airing our differences in public, we have to realize we’re all the same family.",0
+137,0.0,0.0,"When you have a family squabble, you don’t get out on the sidewalk.",0
+138,0.0,0.0,"If you do, everybody calls you uncouth, unrefined, uncivilized, savage.",0
+139,-0.25,0.39999999999999997,"If you don’t make it at home, you settle it at home; you get in the closet, argue it out behind closed doors.",0
+140,-0.3,0.5,"Then when you come out on the street, you pose a common front, a united front.",0
+141,0.0,0.0,This is what we need to do in the community and in the city and in the state.,0
+142,0.0,0.0,We need to stop airing our differences in front of the white man.,0
+143,-0.09351851851851851,0.22129629629629632,"Put the white man out of our meetings, number one, and then sit down and talk shop with each other.",0
+144,0.0,0.0,That’s all you’ve got to do.,0
+145,-0.18333333333333335,0.26666666666666666,I would like to make a few comments concerning the difference between the black revolution and the Negro revolution.,0
+146,0.0,0.0,There’s a difference.,0
+147,0.0,0.125,Are they both the same?,0
+148,0.0,0.0,"If they’re not, what is the difference?",0
+149,-0.16666666666666666,0.43333333333333335,What is the difference between a black revolution and a Negro revolution?,0
+150,0.25,0.3333333333333333,"First, what is a revolution?",0
+151,0.0646153846153846,0.37384615384615383,"Sometimes I’m inclined to believe that many of our people are using this word, revolution, loosely, without taking careful consideration what this word actually means and what its historic characteristics are.",0
+152,0.0,0.05,"When you study the historic nature of revolutions, the motive of a revolution, the objective of a revolution, and the result of a revolution, and the methods used in a revolution, you may change words.",0
+153,0.0,0.0,You may devise another program.,0
+154,0.0,0.0,You may change your goal and you may change your mind.,0
+155,0.0,0.0,Look at the American Revolution in 1776.,0
+156,0.0,0.0,That revolution was for what?,0
+157,0.0,0.0,For land.,0
+158,0.0,0.0,Why did they want land?,0
+159,0.0,0.0,Independence.,0
+160,0.0,0.0,How was it carried out?,0
+161,0.0,0.0,Bloodshed.,0
+162,0.0,1.0,"Number one, it was based on land, the basis of independence, and the only way they could get it was bloodshed.",0
+163,0.0,0.0,"The French Revolution, what was it based on?",0
+164,0.0,0.0,The land-less against the landlord.,0
+165,0.0,0.0,What was it for?,0
+166,0.0,0.0,Land.,0
+167,0.0,0.0,How did they get it?,0
+168,0.0,0.0,Bloodshed.,0
+169,-0.25,0.6,"Was no love lost, was no compromise, was no negotiation.",0
+170,0.0,0.0,"I’m telling you, you don’t know what a revolution is, because when you find out what it is, you’ll get back in the alley.",0
+171,0.0,0.0,You’ll get out of the way.,0
+172,0.0,0.0,"The Russian Revolution, what was it based on?",0
+173,0.0,0.0,Land.,0
+174,0.0,0.0,The land-less against the landlord.,0
+175,0.0,0.0,How did they bring it about?,0
+176,0.0,0.0,Bloodshed.,0
+177,0.0,0.0,You haven’t got a revolution that doesn’t involve bloodshed.,0
+178,-0.6,0.9,And you’re afraid to bleed.,0
+179,-0.6,0.9,I said you’re afraid to bleed.,0
+180,-0.025,0.2,"Long as the white man sent you to Korea, you bled.",0
+181,0.0,0.0,"He sent you to Germany, you bled.",0
+182,0.0,0.0,"He sent you to the South Pacific to fight the Japanese, you bled.",0
+183,0.0,0.0,You bleed for white people.,0
+184,0.08194444444444444,0.6444444444444445,"But when it comes time to seeing your own churches being bombed and little black girls be murdered, you haven’t got no blood.",0
+185,0.0,0.0,"You bleed when the white man says bleed, you bite when the white man says bite, and you bark when the white man says bark.",0
+186,-0.22500000000000003,0.775,"I hate to say this about us, but it’s true.",0
+187,-0.2,0.8,"How are you going to be nonviolent in Mississippi, as violent as you were in Korea?",0
+188,-0.146875,0.55625,"How can you justify being nonviolent in Mississippi and Alabama when your churches are being bombed and your little girls are being murdered, and at the same time you’re going to get violent with Hitler and Tojo and somebody else that you don’t even know?",0
+189,-0.5,0.9,"If violence is wrong in America, violence is wrong abroad.",0
+190,-0.4083333333333333,0.6916666666666668,"If it’s wrong to be violent defending black women and black children and black babies and black men, then it’s wrong for America to draft us and make us violent abroad in defense of her.",0
+191,0.10952380952380951,0.7678571428571428,"If it is right for America to draft us and teach us how to be violent in defense of her, then it is right for you and me to do whatever is necessary to defend our own people right here in this country.",0
+192,0.0,0.0,"The Chinese Revolution, they wanted land.",0
+193,0.0,0.0,"They threw the British out, along with the Uncle Tom Chinese.",0
+194,0.0,0.0,"Yeah, they did.",0
+195,0.7,0.6000000000000001,They set a good example.,0
+196,0.0,0.0,"When I was in prison, I read an article.",0
+197,-0.7,0.8,Don’t be shocked when I say I was in prison.,1
+198,0.0,0.0,You’re still in prison.,0
+199,0.0,0.0,"That’s what America means, prison.",0
+200,-0.029166666666666664,0.2333333333333333,"When I was in prison, I read an article in Life magazine showing a little Chinese girl, nine years old.",0
+201,0.0,0.0,"Her father was on his hands and knees, and she was pulling the trigger because he was an Uncle Tom Chinaman.",0
+202,0.2,0.4,"When they had the revolution over there, they took a whole generation of Uncle Toms, just wiped them out.",0
+203,-0.1875,0.5,"And within 10 years, that little girl became a full-grown woman.",0
+204,-0.25,0.5,No more Toms in China.,0
+205,0.25,0.25,"Today, it’s one of the toughest, roughest, most feared countries on this earth by the white man, because there are no Uncle Toms over there.",0
+206,1.0,0.3,"Of all our studies, history is best qualified to reward our research.",0
+207,0.0,0.2,"And when you see that you’ve got problems, all you have to do is examine the historic method used all over the world by others who have problems similar to yours.",0
+208,0.2,0.4,"Once you see how they got theirs straight, then you know how you can get yours straight.",0
+209,-0.16666666666666666,0.43333333333333335,"There’s been a revolution, a black revolution, going on in Africa.",0
+210,0.0,0.0,"In Kenya, the Mau Mau were revolutionaries; they were the ones who made the word Uhuru.",0
+211,0.0,0.0,They were the ones who brought it to the fore.,0
+212,0.0,0.0,"The Mau Mau, they were revolutionaries.",0
+213,0.0,0.0,They believed in scorched earth.,0
+214,0.0,0.0,"They knocked everything aside that got in their way, and their revolution also was based on land, a desire for land.",0
+215,0.0,0.0,"In Algeria, the northern part of Africa, a revolution took place.",0
+216,0.0,0.0,The Algerians were revolutionists.,0
+217,0.0,0.0,They wanted land.,0
+218,0.0,0.0,France offered to let them be integrated into France.,0
+219,0.0,0.0,"They told France, “To hell with France.” They wanted some land, not some France.",0
+220,-0.8,0.9,They engaged in a bloody battle.,1
+221,0.125,0.5,"I cite these various revolutions, brothers and sisters, to show you, you don’t have a peaceful revolution.",0
+222,0.0,0.0,You don’t have a turn-the-other-cheek revolution.,0
+223,0.2,0.55,There is no such thing as a nonviolent revolution.,0
+224,0.32,0.89,"The only kind of revolution that’s nonviolent is the Negro revolution, the only revolution based on loving your enemy is the Negro revolution.",0
+225,-0.03174603174603175,0.19365079365079366,"The only revolution in which the goal is a desegregated lunch counter, a desegregated theater, a desegregated park, and a desegregated public toilet; you can sit down next to white folks on the toilet.",0
+226,0.0,0.0,That’s no revolution.,0
+227,0.0,0.0,Revolution is based on land.,0
+228,0.0,0.0,Land is the basis of all independence.,0
+229,0.0,0.0,"Land is the basis of freedom, justice, and equality.",0
+230,0.0,0.0,The white man knows what a revolution is.,0
+231,-0.16666666666666666,0.43333333333333335,He knows that the black revolution is worldwide in scope and in nature.,0
+232,-0.16666666666666666,0.43333333333333335,"The black revolution is sweeping Asia, sweeping Africa, is rearing its head in Latin America.",0
+233,0.0,0.0,"The Cuban Revolution, that’s a revolution.",0
+234,0.0,0.0,They overturned the system.,0
+235,0.0,0.0,Revolution is in Asia.,0
+236,0.0,0.0,Revolution is in Africa.,0
+237,0.0,0.0,The white man is screaming because he sees revolution in Latin America.,0
+238,0.2,0.30000000000000004,How do you think he’ll react to you when you learn what a real revolution is?,0
+239,0.0,0.0,You don’t know what a revolution is.,0
+240,-0.8,0.9,"If you did, you wouldn’t use that word.A revolution is bloody.",1
+241,0.0,0.0,Revolution is hostile.,0
+242,0.0,0.0,Revolution knows no compromise.,0
+243,0.0,0.0,Revolution overturns and destroys everything that gets in its way.,0
+244,-0.03333333333333336,0.5666666666666668,"And you, sitting around here like a knot on the wall, saying, “I’m going to love these folks no matter how much they hate me.” No, you need a revolution.",0
+245,0.85,1.0,"Whoever heard of a revolution where they lock arms, as Reverend Cleage was pointing out beautifully, singing We Shall Overcome?",1
+246,0.0,0.0,Just tell me.,0
+247,0.0,0.0,You don’t do that in a revolution.,0
+248,0.1,0.3,You don’t do any singing; you’re too busy swinging.,0
+249,0.0,0.0,It’s based on land.,0
+250,0.26666666666666666,0.4083333333333334,"A revolutionary wants land so he can set up his own nation, an independent nation.",0
+251,0.0,0.0,These Negroes aren’t asking for no nation.,0
+252,0.0,0.0,They’re trying to crawl back on the plantation.,0
+253,0.0,0.0,"When you want a nation, that’s called nationalism.",0
+254,0.0,0.0,"When the white man became involved in a revolution in this country against England, what was it for?",0
+255,0.0,0.0,He wanted this land so he could set up another white nation.,0
+256,0.0,0.0,That’s white nationalism.,0
+257,0.0,0.0,The American Revolution was white nationalism.,0
+258,0.0,0.0,The French Revolution was white nationalism.,0
+259,0.0,0.0,The Russian Revolution too.,0
+260,0.0,0.0,"Yes, it was white nationalism.",0
+261,0.0,0.0,You don’t think so?,0
+262,0.0,0.0,Why do you think Khrushchev and Mao can’t get their heads together?,0
+263,0.0,0.0,White nationalism.,0
+264,0.0,0.0,All the revolutions that’s going on in Asia and Africa today are based on what?,0
+265,-0.16666666666666666,0.43333333333333335,Black nationalism.,0
+266,-0.16666666666666666,0.43333333333333335,A revolutionary is a black nationalist.,0
+267,0.2,0.1,He wants a nation.,0
+268,0.02777777777777778,0.7777777777777777,"I was reading some beautiful words by Reverend Cleage, pointing out why he couldn’t get together with someone else here in the city because all of them were afraid of being identified with black nationalism.",0
+269,-0.45555555555555555,0.7444444444444445,"If you’re afraid of black nationalism, you’re afraid of revolution.",0
+270,0.2777777777777778,0.5444444444444444,"If you love revolution, you love black nationalism.",0
+271,0.03333333333333333,0.13333333333333333,"To understand this, you have to go back to what young brother here referred to as the house Negro and the field Negro back during slavery.",0
+272,0.0,0.0,There was two kinds of slaves.,0
+273,0.0,0.0,There was the house Negro and the field Negro.,0
+274,0.0,0.0,"The house Negroes, they lived in the house with master.",0
+275,0.475,0.8,They dressed pretty good.,0
+276,0.35,0.30000000000000004,"They ate good because they ate his food, what he left.",0
+277,0.49999999999999994,0.625,"They lived in the attic or the basement, but still they lived near the master, and they loved their master more than the master loved himself.",0
+278,0.0,0.0,They would give their life to save the master’s house quicker than the master would.,0
+279,0.7,0.6000000000000001,"If the master said, “We got a good house here,” the house Negro would say, “Yeah, we got a good house here.” Whenever the master said we, he said we.",0
+280,0.0,0.0,That’s how you can tell a house Negro.,0
+281,-0.1,0.0,"If the master’s house caught on fire, the house Negro would fight harder to put the blaze out than the master would.",0
+282,-0.7738095238095238,0.8571428571428571,"If the master got sick, the house Negro would say, “What’s the matter, boss, we sick?” We sick!",1
+283,0.5,0.5,He identified himself with his master more than his master identified with himself.,0
+284,0.0,0.0,"If you came to the house Negro and said, “Let’s run away.",0
+285,0.0,0.0,Let’s escape.,0
+286,-0.6,0.9,"Let’s separate,” the house Negro would look at you and say, “Man, you crazy.",0
+287,-0.3125,0.6875,"What you mean, separate?",0
+288,0.5,0.5,Where is there a better house than this?,0
+289,0.5,0.5,Where can I wear better clothes than this?,0
+290,0.5,0.5,Where can I eat better food than this?” That was that house Negro.,0
+291,0.0,0.0,In those days he was called a house nigger.,0
+292,0.0,0.0,"That’s what we call him today, because we’ve still got some house niggers running around here.",0
+293,0.2,0.3,This modern house Negro loves his master.,0
+294,0.14545454545454548,0.3333333333333333,He wants to live near him.,0
+295,0.10519480519480519,0.6,"He’ll pay three times as much as the house is worth just to live near his master, and then brag about “I’m the only Negro out here.” “I’m the only one on my job.” “I’m the only one in this school.” You’re nothing but a house Negro.",0
+296,-0.008928571428571433,0.44940476190476186,"If someone came to you right now and said, “Let’s separate,” you’d say the same thing that the house Negro said on the plantation, “What you mean, separate?",0
+297,0.0,0.0,From America?,0
+298,0.35,0.30000000000000004,This good white man?,0
+299,0.09375,0.59375,"Where you going to get a better job than you get here?” I mean, this is what you say.",0
+300,0.0,0.0,“I ain’t left nothing in Africa.” That’s what you say.,0
+301,0.0,0.0,"Why, you left your mind in Africa.",0
+302,0.0,0.125,"On that same plantation, there was the field Negro.",0
+303,0.0,0.0,"The field Negro, those were the masses.",0
+304,0.5,0.5,There was always more Negroes in the field than there was Negroes in the house.,0
+305,0.0,0.0,The Negro in the field caught hell.,0
+306,0.0,0.0,He ate leftovers.,0
+307,0.16,0.5399999999999999,"In the house, they ate high up on the hog.",0
+308,0.0,0.0,The Negro in the field didn’t get nothing but what was left of the insides of the hog.,0
+309,0.0,0.0,They call them chitterlings nowadays.,0
+310,0.0,0.0,"In those days they called them what they were, guts.",0
+311,0.0,0.0,"That’s what you were, a gut-eater.",0
+312,0.0,0.0,Some of you all still are gut-eaters.,0
+313,0.0,0.0,The field Negro was beaten from morning until night.,0
+314,0.0,0.0,"He lived in a shack, in a hut.",0
+315,0.1,0.2,He wore old castoff clothes.,0
+316,-0.9,0.7,He hated his master.,1
+317,-0.9,0.7,I say he hated his master.,1
+318,0.8,0.9,He was intelligent.,1
+319,0.7,0.8,That house Negro loved his master.,1
+320,-0.9,0.7,"But that field Negro, remember, they were in the majority, and they hated the master.",1
+321,0.0,0.0,"When the house caught on fire, he didn’t try and put it out.",0
+322,0.0,0.0,"That field Negro prayed for a wind, for a breeze.",0
+323,-0.7142857142857143,0.8571428571428571,"When the master got sick, the field Negro prayed that he’d die.",1
+324,0.0,0.0,"If someone come to the field Negro and said, “Let’s separate.",0
+325,0.5,0.5,"Let’s run,” he didn’t say “Where are we going?” He’d say, “Anyplace is better than here.”
+You’ve got field Negroes in America today.",0
+326,0.0,0.0,I’m a field Negro.,0
+327,0.0,0.0,The masses are the field Negroes.,0
+328,-0.2125,0.3,"When they see this man’s house on fire, you don’t hear these little Negroes talking about “our government is in trouble.” They say, “The government is in trouble.” Imagine a Negro, “Our government”!",0
+329,0.125,0.4,"I even heard one say “our astronauts.” They won’t even let him near the plant, and “our astronauts”!",0
+330,0.0,0.0,“Our Navy.” That’s a Negro that’s out of his mind.,0
+331,0.19,0.34500000000000003,"That’s a Negro that’s out of his mind.Just as the slavemaster of that day used Tom, the house Negro, to keep the field Negroes in check, the same old slavemaster today has Negroes who are nothing but modern Uncle Toms, 20th-century Uncle Toms, to keep you and me in check, keep us under control, keep us passive and peaceful and nonviolent.",0
+332,0.4,0.6,That’s Tom making you nonviolent.,0
+333,0.0,0.0,"It’s like when you go to the dentist, and the man is going to take your tooth.",0
+334,0.0,0.0,You’re going to fight him when he starts pulling.,0
+335,0.0,0.0,"So he squirts some stuff in your jaw called novocaine, to make you think they’re not doing anything to you.",0
+336,0.25,0.5,"So you sit there, and because you’ve got all of that novocaine in your jaw, you suffer peacefully.",0
+337,0.04722222222222221,0.3944444444444445,"Blood running all down your jaw, and you don’t know what’s happening, because someone has taught you to suffer peacefully.",0
+338,-0.15,0.25625,"The white man do the same thing to you in the street, when he’s going to want to put knots on your head and take advantage of you, and don’t have to be afraid of your fighting back.",0
+339,0.0875,0.2375,"To keep you from fighting back, he gets these old religious Uncle Toms to teach you and me, just like novocaine, suffer peacefully.",0
+340,0.25,0.5,Don’t stop suffering; just suffer peacefully.,0
+341,0.0,0.0,"As Reverend Cleage pointed out, “Let your blood flow in the streets.” This is a shame.",0
+342,0.0,0.0,"And you know, he’s a Christian preacher.",0
+343,0.0,0.0,"If it’s a shame to him, you know what it is to me.",0
+344,0.25,0.5,"There’s nothing in our book, the Quran, but you call it Ko-ran, that teaches us to suffer peacefully.",0
+345,0.8,0.9,Our religion teaches us to be intelligent.,1
+346,0.425,0.75,"Be peaceful, be courteous, obey the law, respect everyone, but if someone puts his hand on you, send him to the cemetery.",0
+347,0.7,0.6000000000000001,That’s a good religion.,0
+348,0.0,0.0,"In fact, that’s that old-time religion.",0
+349,0.0,0.0,That’s the one that Ma and Pa used to talk about.,0
+350,0.7,0.6000000000000001,"An eye for an eye, and a tooth for a tooth, and a head for a head, and a life for a life, that’s a good religion.",0
+351,0.6,0.9,No one resents that kind of religion being taught but a wolf who intends to make you his meal.,0
+352,0.0,0.0,This is the way it is with the white man in America.,0
+353,0.0,0.0,He’s a wolf and you’re sheep.,0
+354,0.0,0.041666666666666664,"Anytime a shepherd, a pastor, teaches you and me not to run from the white man and, at the same time, teaches us don’t fight the white man, he’s a traitor to you and me.",0
+355,-0.15555555555555559,0.2888888888888889,Don’t lay down our life all by itself.,0
+356,0.0,0.0,"No, preserve your life.",0
+357,1.0,0.3,It’s the best thing you got.,0
+358,0.0,0.0,"If you’ve got to give it up, let it be even-steven.",0
+359,0.034375,0.44375,"The slavemaster took Tom and dressed him well and fed him well and even gave him a little education, gave him a long coat and a top hat and made all the other slaves look up to him.",0
+360,0.0,0.0,Then he used Tom to control them.,0
+361,0.0,0.08333333333333333,The same strategy that was used in those days is used today by the same white man.,0
+362,0.5,1.0,"He takes a Negro, a so-called Negro, and makes him prominent, builds him up, publicizes him, makes him a celebrity, and then he becomes a spokesman for Negroes and a Negro leader.",0
+363,0.03333333333333333,0.20666666666666664,"I would like to just mention just one thing else quickly, and that is the method that the white man uses, how the white man uses these big guns, or Negro leaders, against the black revolution.",0
+364,-0.16666666666666666,0.43333333333333335,They are not a part of the black revolution.,0
+365,-0.16666666666666666,0.43333333333333335,They are used against the black revolution.,0
+366,-0.25,0.3,"When Martin Luther King failed to desegregate Albany, Georgia, the civil rights struggle in America reached its low point.",0
+367,0.0,0.0,King became bankrupt almost as a leader.,0
+368,-0.04,0.04,"Plus, even financially, the Southern Christian Leadership Conference was in financial trouble.",0
+369,-0.35,0.25,"Plus, it was in trouble, period, with the people when they failed to desegregate Albany, Georgia.",0
+370,-0.125,0.375,Other Negro civil rights leaders of so-called national stature became fallen idols.,0
+371,0.0,0.0,"As they became fallen idols, began to lose their prestige and influence, local Negro leaders began to stir up the masses.",0
+372,0.0,0.0,"In Cambridge, Maryland, Gloria Richardson.",0
+373,-0.0625,0.1875,"In Danville, Virginia, and other parts of the country, local leaders began to stir up our people at the grassroots level.",0
+374,0.0,0.0,This was never done by these Negroes whom you recognize of national stature.,0
+375,0.375,0.75,"They controlled you, but they never incited you or excited you.",0
+376,0.0,0.0,They controlled you.,0
+377,0.0,0.0,They contained you.,0
+378,0.0,0.0,They kept you on the plantation.,0
+379,-0.5,0.3,"As soon as King failed in Birmingham, Negroes took to the streets.",0
+380,0.25,0.3,King got out and went out to California to a big rally and raised I don’t know how many thousands of dollars.,0
+381,0.5,0.5,Come to Detroit and had a march and raised some more thousands of dollars.,0
+382,-0.0028571428571428636,0.16714285714285712,"And recall, right after that, Wilkins attacked King, accused King and the CORE of starting trouble everywhere and then making the NAACP get them out of jail and spend a lot of money, and then they accused King and CORE of raising all the money and not paying it back.",0
+383,0.0,0.0,This happened.,0
+384,0.0,0.0,I’ve got it in documented evidence in the newspaper.,0
+385,0.0,0.0,"Roy started attacking King, and King started attacking Roy, and Farmer started attacking both of them.",0
+386,-0.125,0.375,"As these Negroes of national stature began to attack each other, they began to lose their control of the Negro masses, and Negroes was out there in the streets.",0
+387,0.2857142857142857,0.5357142857142857,"They was talking about, “We’re going to march on Washington.” By the way, right at that time Birmingham had exploded, and the Negroes in Birmingham, remember, they also exploded.",0
+388,0.0,0.0,They began to stab the crackers in the back and bust them upside their head.,0
+389,0.0,0.0,"Yes, they did.",0
+390,-0.15555555555555559,0.2888888888888889,That’s when Kennedy sent in the troops down in Birmingham.,0
+391,0.14285714285714285,0.39285714285714285,"Right after that, Kennedy got on the television and said, “This is a moral issue.” That’s when he said he was going to put out a civil rights bill.",0
+392,0.0,0.0,"When he mentioned civil rights bill and the Southern crackers started talking about they were going to boycott it or filibuster it, then the Negroes started talking about what?",0
+393,0.0,0.0,"We’re going to march on Washington, march on the Senate, march on the White House, march on the Congress, and tie it up, bring it to a halt, don’t let the government proceed.",0
+394,-0.15555555555555559,0.2888888888888889,They even said they was going to go out to the airport and lay down on the runway and don’t let no airplanes land.,0
+395,0.0,0.0,I’m telling you what they said.,0
+396,0.0,0.0,That was revolution.,0
+397,0.0,0.0,That was revolution.,0
+398,-0.16666666666666666,0.43333333333333335,That was the black revolution.,0
+399,0.0,0.0,It was the grassroots out there in the street.,0
+400,0.0,0.0,Scared the white man to death.,0
+401,0.0,0.0,"Scared the white power structure in Washington, D.C., to death.",0
+402,0.0,0.0,I was there.,0
+403,-0.030555555555555558,0.48055555555555557,"When they found out that this black steamroller was going to come down on the capital, they called in Wilkins, they called in Randolph, they called in these national Negro leaders that you respect and told them, “Call it off.” Kennedy said, “Look, you’re all letting this thing go too far.” Old Tom said, “Boss, I can’t stop it, because I didn’t start it.”
+
+
+I’m telling you what they said.",0
+404,0.21666666666666667,0.5333333333333333,"They said, “I’m not even in it, much less at the head of it.” They said, “These Negroes are doing things on their own.",0
+405,0.1,0.2,"They’re running ahead of us.” And that old shrewd fox, he said, “Well, if you all aren’t in it, I’ll put you in it.",0
+406,0.0,0.0,I’ll put you at the head of it.,0
+407,0.0,0.0,I’ll endorse it.,0
+408,0.8,0.9,I’ll welcome it.,1
+409,0.0,0.0,I’ll help it.,0
+410,0.0,0.0,"I’ll join it.”
+
+A matter of hours went by.",0
+411,0.13636363636363635,0.45454545454545453,They had a meeting at the Carlyle Hotel in New York City.,0
+412,0.0,0.0,The Carlyle Hotel is owned by the Kennedy family.,0
+413,-0.1,0.1,"That’s the hotel Kennedy spent the night at two nights ago, belongs to his family.",0
+414,0.04375,0.21875,"A philanthropic society headed by a white man named Stephen Currier called all the top civil rights leaders together at the Carlyle Hotel and told them that, “By you all fighting each other, you are destroying the civil rights movement.",0
+415,0.0,0.0,"And since you’re fighting over money from white liberals, let us set up what is known as the Council for United Civil Rights Leadership.",0
+416,0.0,0.0,Let’s form this council.,0
+417,0.0,0.0,"All the civil rights organizations will belong to it, and we’ll use it for fundraising purposes.”
+
+Let me show you how tricky the white man is.",0
+418,0.1,0.4,"As soon as they got it formed, they elected Whitney Young as the chairman.",0
+419,0.0,0.0,And who do you think became the co-chairman?,0
+420,0.0,0.0,"Stephen Currier, the white man, a millionaire.",0
+421,-0.15555555555555559,0.2888888888888889,Powell was talking about it down at the Cobo today.,0
+422,0.0,0.0,This is what he was talking about.,0
+423,0.0,0.0,Powell knows it happened.,0
+424,0.0,0.0,Randolph knows it happened.,0
+425,0.0,0.0,Wilkins knows it happened.,0
+426,0.0,0.0,King knows it happened.,0
+427,0.0,0.1,"Every one of that so-called Big Six, they know what happened.",0
+428,0.16666666666666666,0.19999999999999998,"Once they formed it, with the white man over it, he promised them and gave them $800,000 to split up between the Big Six, and told them that after the march was over they’d give them $700,000 more.",0
+429,-0.11666666666666667,0.21666666666666667,"A million and a half dollars split up between leaders that you’ve been following, going to jail for, crying crocodile tears for, and they’re nothing but Frank James and Jesse James and the what-you-call-it brothers.",0
+430,0.18,0.21333333333333332,"Soon as they got the setup organized, the white man made available to them top public relations experts, opened the news media across the country at their disposal, and then they begin to project these Big Six as the leaders of the march.",0
+431,0.375,0.75,"Originally, they weren’t even in the march.",0
+432,0.0,0.0,You was talking this march talk on Hastings Street.,0
+433,0.0,0.0,Is Hastings Street still here?,0
+434,0.0,0.0,On Hastings Street.,0
+435,0.0,0.25,"You was talking the march talk on Lenox Avenue, and out on, what do you call it, Fillmore Street and Central Avenue and 32nd Street and 63rd Street.",0
+436,0.0,0.0,That’s where the march talk was being talked.,0
+437,0.0,0.05,"But the white man put the Big Six at the head of it, made them the march.",0
+438,0.0,0.0,They became the march.,0
+439,0.0,0.0,They took it over.,0
+440,0.125,0.16666666666666666,"And the first move they made after they took it over, they invited Walter Reuther, a white man.",0
+441,0.05,0.1,"They invited a priest, a rabbi, and an old white preacher.",0
+442,0.05,0.1,"Yes, an old white preacher.",0
+443,0.0,0.08333333333333333,"The same white element that put Kennedy in power, labor, the Catholics, the Jews, and liberal Protestants, same clique that put Kennedy in power, joined the march on Washington.",0
+444,0.1333333333333333,0.5833333333333333,"It’s just like when you’ve got some coffee that’s too black, which means it’s too strong.",0
+445,0.0,0.0,What do you do?,0
+446,0.0,0.0,You integrate it with cream.,0
+447,-0.375,0.625,You make it weak.,0
+448,0.2,0.2,"If you pour too much cream in, you won’t even know you ever had coffee.",0
+449,0.3,0.75,It used to be hot; it becomes cool.,0
+450,0.029166666666666646,0.6791666666666667,It used to be strong; it becomes weak.,0
+451,0.0,0.0,It used to wake you up; now it’ll put you to sleep.,0
+452,0.0,0.0,This is what they did with the March on Washington.,0
+453,0.0,0.0,They joined it.,0
+454,0.0,0.0,They didn’t integrate it; they infiltrated it.,0
+455,0.0,0.0,"They joined it, became a part of it, took it over.",0
+456,0.0,0.0,"As they took it over, it lost its militancy.",0
+457,-0.5,1.0,They ceased to be angry.,0
+458,0.25,0.8500000000000001,They ceased to be hot.,0
+459,0.0,0.0,They ceased to be uncompromising.,0
+460,0.0,0.0,"Why, it even ceased to be a march.",0
+461,0.0,0.0,"It became a picnic, a circus, nothing but a circus, with clowns and all.",0
+462,0.03968253968253968,0.32301587301587303,"You had one right here in Detroit, I saw it on television, with clowns leading it, white clowns and black clowns.",0
+463,0.0,0.0,"I know you don’t like what I’m saying, but I’m going to tell you anyway, because I can prove what I’m saying.",0
+464,-0.3125,0.6375,"If you think I’m telling you wrong, you bring me Martin Luther King and A. Philip Randolph and James Farmer and those other three, and see if they’ll deny it over a microphone.",0
+465,0.0,0.0,"No, it was a sellout.",0
+466,0.0,0.0,It was a takeover.,0
+467,0.0,0.0,"When James Baldwin came in from Paris, they wouldn’t let him talk because they couldn’t make him go by the script.",0
+468,0.0,0.0,Burt Lancaster read the speech that Baldwin was supposed to make.,0
+469,-0.1,0.5,They wouldn’t let Baldwin get up there because they know Baldwin is liable to say anything.,0
+470,-0.17857142857142858,0.2857142857142857,"They controlled it so tight, they told those Negroes what time to hit town, how to come, where to stop, what sign to carry, what speech they could make and what speech they couldn’t make, and then told them to get out of town by sundown.",0
+471,0.0,0.0,And every one of those Toms were out of town by sundown.,0
+472,0.0,0.0,"Now, I know you don’t like my saying this, but I can back it up.",0
+473,0.0,0.0,"It was a circus, a performance that beat anything Hollywood could ever do, the performance of the year.",0
+474,0.44375,0.46875,Reuther and those other three devils should get an Academy Award for the best actors because they acted like they really loved Negroes and fooled a whole lot of Negroes.,0
+475,0.625,0.275,"And the six Negro leaders should get an award, too, for the best supporting cast.",0
